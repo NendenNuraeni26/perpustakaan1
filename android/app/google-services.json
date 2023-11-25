@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4244974591",
+    "project_id": "registerbuku",
+    "storage_bucket": "registerbuku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4244974591:android:d29b0e5be6f17a158655ca",
+        "android_client_info": {
+          "package_name": "com.example.aplikasiperpustakaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkHOP3iDYtjLSROAv72JSx5lBFlqIeuMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
